@@ -4,7 +4,7 @@ In this repository, I successfully implement a simple c++ compiler based on c++.
 
 ## preview
 
-![preview](./pic/preview.png)
+![preview](./pic/preview2.png)
 
 ## usage
 
