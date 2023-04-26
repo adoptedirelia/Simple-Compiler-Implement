@@ -1,0 +1,16 @@
+
+int main(){
+    double a,b;
+    a+=b;
+    a=123;
+    a++;
+    a--;
+    a*=15;
+    a/=15;
+    a+=15;
+    a-=15;
+    do{
+
+    }while(1);
+    return 0;
+}

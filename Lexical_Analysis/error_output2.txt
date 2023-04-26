@@ -1,0 +1,18 @@
+(2,null)
+(44,null)
+(29,null)
+(30,null)
+(25,null)
+(2,null)
+(49,a123)
+(42,null)
+(49,bcdef)
+(43,null)
+error: unknown single character
+error: unknown single character
+error: unknown single character
+error: unknown single character
+(34,null)
+(48,0)
+(43,null)
+(26,null)

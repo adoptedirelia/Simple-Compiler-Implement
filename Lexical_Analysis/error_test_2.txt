@@ -1,0 +1,15 @@
+
+int main()
+{
+    /*
+        multi
+        comment
+        line
+        test
+    */
+    int a123,bcdef;
+    //single comment line test
+    //next line is unknown character test
+    %%%%
+    return 0;
+}

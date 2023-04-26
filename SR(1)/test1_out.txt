@@ -1,0 +1,4 @@
+(+, b, c, temp0)
+(*, a, temp0, temp1)
+(+, temp1, d, temp2)
+(=, temp2, _, x)

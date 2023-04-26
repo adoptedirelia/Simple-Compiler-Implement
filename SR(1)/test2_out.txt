@@ -1,0 +1,3 @@
+(/, c, d, temp0)
+(-, a, temp0, temp1)
+(=, temp1, _, f)
